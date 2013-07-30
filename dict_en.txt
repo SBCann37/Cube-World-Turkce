@@ -660,128 +660,128 @@
   </name>
 
   <name key="Ginseng" tags="m">
-    <singular>Ginseng</singular>
-    <plural>Ginseng</plural>
+    <singular>Jinseng</singular>
+    <plural>Jinsengler</plural>
   </name>
 
   <name key="Bush" tags="m">
-    <singular>Bush</singular>
-    <plural>Bushes</plural>
+    <singular>Çalı</singular>
+    <plural>Çalılar</plural>
   </name>
 
   <name key="SnowBush" tags="m">
-    <singular>Bush</singular>
-    <plural>Bushes</plural>
+    <singular>Çalı</singular>
+    <plural>Çalılar</plural>
   </name>
 
   <name key="SnowBerryBush" tags="m">
-    <singular>Snowberry Bush</singular>
-    <plural>Snowberry Bushes</plural>
+    <singular>İnci Çiceği Çalısı</singular>
+    <plural>İnci Çiçeği Çalıları</plural>
   </name>
  
   <name key="SnowBerry" tags="m">
-    <singular>Snowberry</singular>
-    <plural>Snowberries</plural>
+    <singular>İnci Çiceği</singular>
+    <plural>İnci Çicekleri</plural>
   </name>
 
   <name key="SnowBerryMash" tags="m">
-    <singular>Snowberry Mash</singular>
-    <plural>Snowberry Mashes</plural>
+    <singular>İnci Çiceği Püresi</singular>
+    <plural>İnci Çiçeği Püreleri</plural>
   </name>
 
   <name key="ThornTree" tags="m">
-    <singular>Thorn Tree</singular>
-    <plural>Thorn Trees</plural>
+    <singular>Diken Ağacı</singular>
+    <plural>Diken Ağaçları</plural>
   </name>
 
   <name key="Cactus" tags="m">
-    <singular>Cactus</singular>
-    <plural>Cactus</plural>
+    <singular>Kaktüs</singular>
+    <plural>Kaktüsler</plural>
   </name>
 
   <name key="Dummy" tags="m">
-    <singular>Dummy</singular>
-    <plural>Dummys</plural>
+    <singular>Kukla</singular>
+    <plural>Kuklalar</plural>
   </name>
 
   <name key="Aim" tags="m">
-    <singular>Aim</singular>
-    <plural>Aims</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="CottonPlant" tags="f">
-    <singular>Cotton Plant</singular>
-    <plural>Cotton Plants</plural>
+    <singular>Pamuk Dalı</singular>
+    <plural>Pamuk Dalları</plural>
   </name>
 
   <name key="Capsule" tags="f">
-    <singular>Capsule</singular>
-    <plural>Capsules</plural>
+    <singular>Kapsül</singular>
+    <plural>Kapsüller</plural>
   </name>
 
   <name key="Scrub" tags="m">
-    <singular>Scrub</singular>
-    <plural>Scrubs</plural>
+    <singular>Bodur</singular>
+    <plural>Bodurlar</plural>
   </name>
 
   <name key="CobwebScrub" tags="m">
-    <singular>Scrub</singular>
-    <plural>Scrubs</plural>
+    <singular>Bodur</singular>
+    <plural>Bodurlar</plural>
   </name>
 
   <name key="FireScrub" tags="m">
-    <singular>Fire Scrub</singular>
-    <plural>Fire Scrub</plural>
+    <singular>Ateş Boduru</singular>
+    <plural>Ateş Bodurları</plural>
   </name>
 
   <name key="Scarecrow" tags="f">
-    <singular>Scarecrow</singular>
-    <plural>Scarecrows</plural>
+    <singular>Korkuluk</singular>
+    <plural>Korkulukları</plural>
   </name>
 
   <name key="NomadMale" tags="m">
-    <singular>Nomad</singular>
-    <plural>Nomads</plural>
+    <singular>Göçebe</singular>
+    <plural>Göçebeler</plural>
   </name>
 
   <name key="NomadFemale" tags="f">
-    <singular>Nomad</singular>
-    <plural>Nomads</plural>
+    <singular>Göçebe</singular>
+    <plural>Göçebeler</plural>
   </name>
 
   <name key="Saurian" tags="m">
-    <singular>Saurian</singular>
-    <plural>Saurians</plural>
+    <singular>Kertenkele</singular>
+    <plural>Kertenkeleler</plural>
   </name>
 
   <name key="Zombie" tags="m">
-    <singular>Zombie</singular>
-    <plural>Zombies</plural>
+    <singular>Zombi</singular>
+    <plural>Zombiler</plural>
   </name>
 
   <name key="Lich" tags="m">
-    <singular>Lich</singular>
-    <plural>Liches</plural>
+    <singular></singular>
+    <plural></plural>
   </name>
 
   <name key="Troll" tags="m">
     <singular>Troll</singular>
-    <plural>Trolls</plural>
+    <plural>Trolller</plural>
   </name>
 
   <name key="Werewolf" tags="m">
-    <singular>Werewolf</singular>
-    <plural>Werewolves</plural>
+    <singular>Kurt Adam</singular>
+    <plural>Kurt Adamlar</plural>
   </name>
 
   <name key="DarkTroll" tags="m">
-    <singular>Dark Troll</singular>
-    <plural>Dark Troll</plural>
+    <singular>Karanlık Troll</singular>
+    <plural>Karanlık Trolller</plural>
   </name>
 
   <name key="Cave">
-    <singular>Cave</singular>
-    <plural>Caves</plural>
+    <singular>Mağara</singular>
+    <plural>Mağaralar</plural>
   </name>
 
 
@@ -789,223 +789,223 @@
 
 
   <name key="Artifact">
-    <singular>Artifact</singular>
-    <plural>Artifacts</plural>
+    <singular>Yapay Doku</singular>
+    <plural>Yapay Dokular</plural>
   </name>
 
 
 
   <name key="Amulet" tags="n">
-    <singular>Amulet</singular>
-    <plural>Amulets</plural>
+    <singular>Muska</singular>
+    <plural>Muskalar</plural>
   </name>
 
   <name key="Ring" tags="m">
-    <singular>Ring</singular>
-    <plural>Rings</plural>
+    <singular>Yüzük</singular>
+    <plural>Yüzükler</plural>
   </name>
 
   <name key="Amulet1">
-    <singular>Amulet</singular>
-    <plural>Amulets</plural>
+    <singular>Muska</singular>
+    <plural>Muskalar</plural>
   </name>
 
   <name key="Amulet2">
-    <singular>Amulet</singular>
-    <plural>Amulets</plural>
+    <singular>Muska</singular>
+    <plural>Muskalar</plural>
   </name>
 
   <name key="Statue">
-    <singular>Statue</singular>
-    <plural>Statues</plural>
+    <singular>Statü</singular>
+    <plural>Statüler</plural>
   </name>
   <name key="Door">
-    <singular>Door</singular>
+    <singular>Kapı</singular>
   </name>
   <name key="BigDoor">
-    <singular>Door</singular>
+    <singular>Büyük Kapı</singular>
   </name>
   <name key="Window">
-    <singular>Window</singular>
+    <singular>Pencere</singular>
   </name>
   <name key="CastleWindow">
-    <singular>Window</singular>
+    <singular>Pencere</singular>
   </name>
   <name key="Gate">
-    <singular>Gate</singular>
+    <singular>Geçit</singular>
   </name>
   <name key="FireTrap">
-    <singular>Fire Trap</singular>
+    <singular>Ateş Tuzağı</singular>
   </name>
   <name key="SpikeTrap">
-    <singular>Spike Trap</singular>
+    <singular>Başak Tuzağı</singular>
   </name>
   <name key="StompTrap">
-    <singular>Stomp Trap</singular>
+    <singular>Basılan Tuzak</singular>
   </name>
   <name key="Lever">
-    <singular>Lever</singular>
+    <singular>Şalter</singular>
   </name>
   <name key="Chest">
-    <singular>Chest</singular>
+    <singular>Sandık</singular>
   </name>
   <name key="Table">
-    <singular>Table</singular>
+    <singular>Masa</singular>
   </name>
   <name key="Stool">
-    <singular>Stool</singular>
+    <singular>Dışkı</singular>
   </name>
   <name key="Bench">
-    <singular>Bench</singular>
+    <singular>Tezgah</singular>
   </name>
   <name key="Bed">
-    <singular>Bed</singular>
+    <singular>Yatak</singular>
   </name>
   <name key="BedTable">
-    <singular>Bed Table</singular>
+    <singular>Yatak Tezgahı</singular>
   </name>
   <name key="MarketStand1">
-    <singular>Market Stand</singular>
+    <singular>Market Standı</singular>
   </name>
   <name key="MarketStand2">
-    <singular>Market Stand</singular>
+    <singular>Market Standı</singular>
   </name>
   <name key="MarketStand3">
-    <singular>Market Stand</singular>
+    <singular>Market Standı</singular>
   </name>
   <name key="Barrel">
-    <singular>Barrel</singular>
+    <singular>Varil</singular>
   </name>
   <name key="Crate">
-    <singular>Crate</singular>
+    <singular>Kasa</singular>
   </name>
   <name key="OpenCrate">
-    <singular>Crate</singular>
+    <singular>Kasa</singular>
   </name>
   <name key="Sack">
-    <singular>Sack</singular>
+    <singular>Çuval</singular>
   </name>
   <name key="Shelter">
-    <singular>Shelter</singular>
+    <singular>Barınak</singular>
   </name>
   <name key="Cupboard">
-    <singular>Cupboard</singular>
+    <singular>Dolap</singular>
   </name>
   <name key="Desktop">
-    <singular>Desktop</singular>
+    <singular>Masaüstü</singular>
   </name>
   <name key="Counter">
-    <singular>Counter</singular>
+    <singular>Karşı</singular>
   </name>
   <name key="Shelf1">
-    <singular>Shelf</singular>
+    <singular>Raf</singular>
   </name>
   <name key="Shelf2">
-    <singular>Shelf</singular>
+    <singular>Raf</singular>
   </name>
   <name key="Shelf3">
-    <singular>Shelf</singular>
+    <singular>Raf</singular>
   </name>
   <name key="Corpse">
-    <singular>Corpse</singular>
+    <singular>Ceset</singular>
   </name>
   <name key="Statue">
-    <singular>Statue</singular>
+    <singular>Statü</singular>
   </name>
   <name key="RuneStone">
-    <singular>Rune Stone</singular>
+    <singular>Rünik Taşı</singular>
   </name>
   <name key="Artifact">
-    <singular>Artifact</singular>
+    <singular>Yapay Doku</singular>
   </name>
   <name key="FlowerBox1">
-    <singular>Flower Box</singular>
+    <singular>Çiçek Kutusu</singular>
   </name>
   <name key="FlowerBox2">
-    <singular>Flower Box</singular>
+    <singular>Çiçek Kutusu</singular>
   </name>
   <name key="FlowerBox3">
-    <singular>Flower Box</singular>
+    <singular>Çiçek Kutusu</singular>
   </name>
   <name key="StreetLight">
-    <singular>Street Light</singular>
+    <singular>Sokak Lambası</singular>
   </name>
   <name key="FireStreetLight">
-    <singular>Street Light</singular>
+    <singular>Sokak Lambası</singular>
   </name>
   <name key="Fence1">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
   <name key="Fence2">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
   <name key="Fence3">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
   <name key="Fence4">
-    <singular>Fence</singular>
+    <singular>Çit</singular>
   </name>
 
   <name key="Furnace">
-    <singular>Furnace</singular>
+    <singular>Fırın</singular>
   </name>
 
   <name key="Anvil">
-    <singular>Anvil</singular>
+    <singular>Örs</singular>
   </name>
 
   <name key="SpinningWheel">
-    <singular>Spinning Wheel</singular>
+    <singular>Dikiş Makinesi</singular>
   </name>
 
   <name key="Loom">
-    <singular>Loom</singular>
+    <singular>Dokuma Tezgahı</singular>
   </name>
 
   <name key="SawBench">
-    <singular>Saw</singular>
+    <singular>Testere</singular>
   </name>
 
   <name key="Workbench">
-    <singular>Workbench</singular>
+    <singular>Çalışma Masası</singular>
   </name>
 
   <name key="CustomizationBench">
-    <singular>Customization Bench</singular>
+    <singular>Özelleştirme Masası</singular>
   </name>
 
   <name key="Vase1">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase2">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase3">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase4">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase5">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase6">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase7">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase8">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Vase9">
-    <singular>Vase</singular>
+    <singular>Vazo</singular>
   </name>
   <name key="Campfire">
-    <singular>Campfire</singular>
+    <singular>Kamp Ateşi</singular>
   </name>
   <name key="Tent">
-    <singular>Tent</singular>
+    <singular>Çadır</singular>
   </name>
   <name key="BeachUmbrella">
     <singular>Beach Umbrella</singular>
